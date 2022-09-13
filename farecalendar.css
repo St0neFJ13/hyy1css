@@ -1,0 +1,50 @@
+a.flex.items-center.flex-grow.justify-center.AY.tracking-normal.k.b.K.L.M.S.AZ.focus\:outline-none.Aa {padding: 0;}
+header.header.flex.justify-center.flex-col {height: 56px;}
+.flex.flex-wrap.header__main-section-body.justify-start.w-full.flex-no-wrap.max-w-6xl {max-width: inherit;}
+img.image.max-w-none.focus\:outline-none.Aa {width: 228px;}
+.flex.flex-wrap.header-logos.items-center.header-logos.flex-row.items-center.ltr\:mr-4.rtl\:ml-4.BT {margin-left: 60px;}
+button.relative.p-1.block.flex.flex-no-wrap.items-center.false.ltr\:pr-8.ltr\:pl-2.rtl\:pl-8.rtl\:pr-2.AY.tracking-normal.k.b.K.L.M.S.z.focus\:outline-none.Aa.V.o {margin-right: 60px;}
+.flex.flex-wrap.relative.flex-grow.justify-center.items-center {margin: auto 32px;}
+a.flex.items-center.flex-grow.justify-center.AY.tracking-normal.k.b.K.L.M.S.AZ.focus\:outline-none.Aa {margin: auto 30px;}
+button.relative.p-1.block.flex.items-center.h-full.w-full.justify-center.ltr\:pr-8.ltr\:pl-2.rtl\:pl-8.rtl\:pr-2.Au.AY.tracking-normal.k.b.K.L.M.S.AZ.focus\:outline-none.Aa {padding-left: 0;}
+.fr-row.fr-no-gutters .fr-col-sm-12 {display: none;}
+h2.fr-h2.fr-212978568.fr-text-text.fr-text-center.fr-1249866118 {margin-bottom: 10px;}
+span.fr-span.fr-text-text.fr--513376940.fr--410555371.fr--1185679094.fr-1038203142 {
+  line-height: 24px;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-family: 'Noto Sans';
+  color: #282828 !important;
+  margin-right: 10px;
+}
+.fr--1695787989:hover span.fr-span.fr-day-card-day.fr--2031833870.fr-text-text.fr-position-absolute.fr-left-1.fr-top-1.fr-1742489081 {color: inherit!important;}
+svg.fr-icon.fr-icon-searchV2.fr--293823404 {width: 20px;}
+.fr-rate-item-check-availability.fr-mb-auto.fr-d-flex.fr-justify-content-center.fr-align-items-center.fr-mt-auto.fr-text-center.fr-flex-column {
+  display: flex!important;
+  flex-direction: row-reverse!important;
+}
+.fr-day-card.fr-cursor-pointer.fr-focus.fr-d-flex.fr-flex-column.fr-1561224778.fr--1013126690.fr-699346932.fr--1695787989.fr-1242668231.fr-1731573764.fr--1169775456.fr--958995050.fr-1993369722.fr-1094193068.fr-1033073480.fr--484006851.fr-300047660.fr--1042554864.fr-149831257.fr--945324075.fr--1215169998.fr--76600112:hover {
+  border: 1px solid #CCCCCC!important;
+  background: white!important;
+}
+.fr-secondary-filters.fr-d-flex.fr--1210409325.fr-1923591905.fr-1226813814 {
+  margin-bottom: -60px;
+  justify-content: flex-start;
+}
+.fr-mt-auto.fr-d-flex.fr-flex-column.fr-605702295.fr-fare-item-rate-price {
+  align-items: flex-end;
+  width: 100%;
+  margin-right: 30px;
+}
+span.fr-span.return-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.fare-item-return-info.fr-text-text.fr-font-weight-bold.fr-1966435133.fr--410555371.fr-1548595490.fr--72012298.fr--106488381 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 100%;
+  margin-right: 30px;
+}
